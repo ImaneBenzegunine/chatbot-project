@@ -1,0 +1,287 @@
+{
+    "intents": [
+      {
+        "tag": "program_aeronautics",
+        "patterns": [
+          "What are the modules in the aeronautics field?",
+          "Give me the program of the aeronautics field",
+          "What does the aeronautical engineering training include?",
+          "Modules taught in aeronautics"
+        ],
+        "responses": [
+          "Here are the modules taught in the Aeronautical Engineering field at ENSA of Berrechid:\n\n*1st year of Engineering Cycle*\n\nSemester 5:\n- Engineer's Mathematics\n- Thermodynamics and Fluid Mechanics\n- Signal Processing I\n- Materials and Manufacturing Processes in Aeronautics\n- Avionics Systems and Aeronautical Technique\n- Electronics\n- Business Management\n- Professional Project Development and Communication\n\nSemester 6:\n- Aeronautical Instrumentation and Data Acquisition\n- Space Mechanics and Flight Mechanics\n- Electrical Machines\n- Operations Research\n- Turbomachines\n- Microprocessors – Microcontrollers\n- Project Management\n- English I\n\n*2nd year of Engineering Cycle*\n\nSemester 7:\n- Mechatronics\n- Automation\n- Embedded Programming\n- Aerodynamics\n- Computer-Aided Design\n- Aeronautical Meteorology\n- Industrial Management\n- English II\n\nSemester 8:\n- Embedded Operating Systems\n- Signal Processing II\n- Advanced Sensors\n- Embedded Systems Architecture\n- Avionics\n- Control Laws\n- Personal Development and NLP\n- Contract Law and HR\n\n*3rd year of Engineering Cycle*\n\nSemester 9:\n- Control and Verification of Embedded Systems\n- Aeronautical Architectures and Communication Protocols\n- Reliability and Safety\n- Radionavigation Instruments\n- Advanced Databases\n- Embedded Computers\n- Entrepreneurship and Business Creation\n- Methodology and PFE Development\n\nSemester 10:*\n- PFE"
+        ]
+      },
+      {
+        "tag": "program",
+        "patterns": [
+          "What is the program of ENSA of Berrechid?",
+          "Can you tell me about the program?",
+          "What modules are taught?",
+          "Academic program of ENSA?",
+          "ENSA Berrechid program",
+          "ENSA Berrechid program"
+        ],
+        "responses": [
+          "The program at ENSA of Berrechid includes courses in mathematics, computer science, electrical engineering, and other specialties. Do you want details about a specific field?",
+          "The program varies depending on the years and fields. Visit the official website for more detailed information."
+        ]
+      },
+      {
+        "tag": "schedule",
+        "patterns": [
+          "What is the schedule?",
+          "Do you have the course schedule?",
+          "How is the schedule organized at ENSA?",
+          "When do the classes take place?"
+        ],
+        "responses": [
+          "The schedule depends on the fields and levels. Generally, classes take place from Monday to Friday, with morning and afternoon slots.",
+          "For a precise schedule, contact the administration or check the dedicated student platform."
+        ]
+      },
+      {
+        "tag": "programme_bigdata",
+        "patterns": [
+          "What are the modules taught in the Information Systems and Big Data field?",
+          "Give me the modules of the Big Data field",
+          "I want to know the modules of the ISIBD field",
+          "What are the modules of Big Data?",
+          "bigdata",
+          "Big data"
+        ],
+        "responses": [
+          "Here are the modules taught in the Information Systems and Big Data field at ENSA of Berrechid:\n\n*1st year of Engineering Cycle*\n\nSemester 5:\n- Mathematical Methods and Tools\n- Scientific Computing\n- Theoretical Computer Science\n- Algorithmic Fundamentals\n- Electronics\n- Signal Processing\n- Business Management\n- Professional Project Development and Communication\n\nSemester 6:\n- Operations Research\n- Statistics and Probabilities\n- Object-Oriented Programming (JAVA)\n- Advanced Databases\n- Architecture and Operating Systems\n- Complexity\n- Project Management\n- English I\n\n*2nd year of Engineering Cycle*\n\nSemester 7:\n- Optimization Methods\n- Decision Statistics\n- Graphs and Algorithms\n- Computer Networks\n- Introduction to Python\n- Big Data on the Cloud\n- Industrial Management and Quality\n- English II\n\nSemester 8:\n- Business Intelligence Systems\n- Data Analysis for Big Data\n- NoSQL Databases and BIG DATA\n- System Administration and Security\n- Engineering and Digital Mockup\n- Cloud Computing Security\n- Personal Development and NLP\n- English III\n\n*3rd year of Engineering Cycle*\n\nSemester 9:\n- Big Data and Applications\n- Data Mining\n- Multi-Criteria Decision Making\n- High-Performance Computing\n- Cloud and Mobile Applications\n- Advanced Virtualization and Cloud Computing\n- Entrepreneurship and Business Creation\n- Research Opening: Engineer Project\n\nSemester 10:*\n- PFE"
+        ]
+      },
+      {
+        "tag": "programme_gi",
+        "patterns": [
+          "What are the modules taught in the Computer Engineering field?",
+          "Give me the modules of the GI field",
+          "I want to know the modules of the computer engineering field",
+          "What modules are taught in GI?",
+          "gi",
+          "informatique"
+        ],
+        "responses": [
+          "Here are the modules taught in the Computer Engineering field at ENSA of Berrechid:\n\n*1st Year of Engineering Cycle*\n\nSemester 5:\n- Methods and Tools for Engineers\n- Language Theory and Compilation\n- Complexity and Advanced Algorithmics\n- Industrial Computing\n- Information Systems and Relational Databases\n- Business Management\n- Professional Project Development and Communication\n\nSemester 6:\n- Probability and Statistics\n- Web Technology and XML\n- Software Engineering and Object Programming in JAVA\n- Computer Networks\n- Operating System and Unix\n- Project Management\n- English I\n\n*2nd Year of Engineering Cycle*\n\nSemester 7:\n- Operations Research\n- Python Programming\n- Computer and Cybersecurity\n- Database Administration\n- JEE Programming\n- Industrial Management and Quality\n- English II\n\nSemester 8:\n- Data Analysis and Visualization\n- Data Mining and Decision Informatics\n- Mobile Development\n- Cloud Computing\n- System and Network Administration\n- Personal Development and NLP\n- English III\n\n*3rd Year of Engineering Cycle*\n\nSemester 9:\n- Business Processes and ERP\n- NoSQL Databases and Big Data\n- Internet of Things (IoT)\n- Artificial Intelligence\n- JS Technologies and Semantic Web\n- Research Opening: Engineer Project\n- Entrepreneurship and Business Creation\n\nSemester 10:*\n- PFE"
+        ]
+      },
+      {
+        "tag": "programme_Aero",
+        "patterns": [
+          "What are the modules taught in the Aeronautics field?",
+          "Give me the modules of the Aeronautics field",
+          "I want to know the modules of the Aero field",
+          "What modules are taught in Aero?",
+          "What modules are taught in Aeronautics?",
+          "aero",
+          "Aeronautics",
+          "Aeronautic"
+        ],
+        "responses": [
+          "*1st year of Engineering Cycle*\n\nSemester 5\n- Engineer's Mathematics\n- Thermodynamics and Fluid Mechanics\n- Signal Processing I\n- Materials and Manufacturing Processes in Aeronautics\n- Avionics Systems and Aeronautical Technique\n- Electronics\n- Business Management\n- Professional Project Development and Communication\n\nSemester 6\n- Aeronautical Instrumentation and Data Acquisition\n- Space Mechanics and Flight Mechanics\n- Electrical Machines\n- Operations Research\n- Turbomachines\n- Microprocessors – Microcontrollers\n- Project Management\n- English I\n\n*2nd year of Engineering Cycle*\n\nSemester 7\n- Mechatronics\n- Automation\n- Embedded Programming\n- Aerodynamics\n- Computer-Aided Design\n- Aeronautical Meteorology\n- Industrial Management\n- English II\n\nSemester 8\n- Embedded Operating Systems\n- Signal Processing II\n- Advanced Sensors\n- Embedded Systems Architecture\n- Avionics\n- Control Laws\n- Personal Development and NLP\n- Contract Law and HR\n\n*3rd year of Engineering Cycle*\n\nSemester 9\n- Control and Verification of Embedded Systems\n- Aeronautical Architectures and Communication Protocols\n- Reliability and Safety\n- Radionavigation Instruments\n- Advanced Databases\n- Embedded Computers\n- Entrepreneurship and Business Creation\n- Methodology and PFE Development\n\nSemester 10\n- PFE"
+        ]
+      },
+      {
+        "tag": "filière_ap1",
+        "patterns": [
+          "What subjects are taught in AP1?",
+          "Give me the program of the first preparatory year",
+          "What modules are offered in API1 at ENSA of Berrechid?",
+          "What modules are taught in API 1?",
+          "What modules are taught in api1?",
+          "Give me the program of the first integrated preparatory year",
+          "api1",
+          "api 1"
+        ],
+        "responses": [ "Here are the modules taught in the first preparatory year (AP1) at ENSA Berrechid:\n\n*1st Semester:\n- Algebra 1\n- Analysis 1\n- Physics 1\n- Electrostatics\n- Magnetostatics\n- Mechanics 1\n- Computer Science 1\n- Computer Architecture\n- Algorithms\n- LC1\n- French 1\n- Open Activities\n\n2nd Semester:\n- Algebra 2\n- Analysis 2\n- Physics 2\n- Electrodynamics 1\n- Geometrical Optics\n- Chemistry - General Chemistry\n- Computer Science 2 - Computer Tools\n- LC2\n- French 2\n- English 1"
+        
+        ]
+      },
+
+    {
+            "tag": "filière_api2",
+            "patterns": [
+                "What subjects are taught in API2?",
+                "Give me the program for the second preparatory year",
+                "What modules are offered in API2 at ENSA Berrechid?",
+                "What modules are taught in API2?",
+                "Give me the program for the second integrated preparatory year",
+                "second preparatory year",
+                "api2",
+                "api 2"
+
+              
+
+            ],
+            "responses": [
+                "Here are the modules taught in the second integrated preparatory year (API2) at ENSA Berrechid:\n\n*3rd Semester:\n- Algebra 3\n- Analysis 3\n- Physics 3\n- Thermodynamics\n- Fluid Mechanics\n- Electronics 1\n- Electrokinectics 2\n- Measurement Techniques\n- Computer Science 3 - C Programming\n- LC1\n- French 3\n- English 2\n\n4th Semester:\n- Analysis 4\n- Applied Mathematics\n- Probability and Descriptive Statistics\n- Numerical Analysis\n- Physics 4\n- Electromagnetism\n- Physical Optics\n- Mechanics 2\n- Solid Mechanics\n- CAD\n- Electronics 2\n- Electrical Quadripoles\n- Electronic Components\n- Languages and Management\n- English 3\n- Introduction to Business\n- Organization of Business"
+            ]
+    },
+        {
+            "tag": "filière_GMSI",
+            "patterns": [
+                "What subjects are taught in the Mechatronics and Artificial Intelligence track?",
+                "Give me the program for the GMSI track",
+                "What modules are offered in the Mechatronics Engineering track?",
+                "Give me the program for the GMSI track",
+                "What modules are taught in GMSI?",
+                "GMSI",
+                "Mechatronics and Artificial Intelligence track"
+            ],
+            "responses": [
+                "Here are the modules taught in the Electrical and Electronic Engineering (GMSI) track at ENSA Berrechid:\n\n*1st Year Engineering Cycle\n\nSemester 5:\n- Instrumentation Electronics\n- Mechanics of Continuous Media and Material Strength\n- Signal Processing\n- Microprogrammed Systems\n- Applied Thermodynamics and Machines\n- Business Law\n- Probability and Statistics for Engineers\n- TEC 1\n\nSemester 6:\n- Scientific Computing for Engineers\n- Automation\n- Design of Electronic Systems\n- Operations Research and Graph Theory\n- Mechanical Manufacturing and CAD\n- Electrical Machines and Power Electronics\n- General Economy and Business Organization\n- English\n\n2nd Year Engineering Cycle\n\nSemester 7:\n- Real-Time Embedded Systems\n- Fluid Mechanics and Aerodynamics\n- Structural Calculation\n- Object-Oriented Programming and Modeling\n- IoT and Artificial Intelligence\n- Vibration and Acoustics\n- Project Management\n- English\n\nSemester 8:\n- Smart Materials\n- Robotics\n- Sensors, Actuators, and Industrial Regulation\n- Advanced Numerical Methods\n- Relational Database\n- Operating Systems and Computer Networks\n- Supply Chain Management\n- TEC 2\n\n3rd Year Engineering Cycle\n\nSemester 9:\n- Mechatronic Systems\n- Embedded Systems Design\n- Automotive Technology\n- Safety and Reliability of Mechatronic Systems\n- Vibration Control and Energy Recovery\n- INDUSTRY 4.0\n- Quality and Maintenance\n- English\n\nSemester 10:*\n- Final Year Project"
+            ]
+        },
+        {
+            "tag": "filière_gee_energie",
+            "patterns": [
+                "What subjects are taught in the Energy Engineering track?",
+                "Give me the program for the GEE track",
+                "What modules are offered in the Energy Engineering track?",
+                "Give me the program for the GEE track",
+                "What modules are taught in GEE?"
+            ],
+            "responses": [
+                "Here are the modules taught in the Energy Engineering (GEE) track at ENSA Berrechid:\n\n*1st Year Engineering Cycle\n\nSemester 5:\n- Mathematical Engineering 1\n- Fluid Mechanics\n- Heat Transfer\n- Sensors / Metrology\n- Advanced Algorithms and Databases\n- Languages and Communication Techniques\n- Project Management\n- Strategic and Operational Business Management\n\nSemester 6:\n- Air, Water, and Soil Pollution\n- Numerical Physics\n- Applied Thermodynamics\n- Electrical Machines\n- Communication Networks and Data Acquisition\n- Legal Environment of Business\n- Business Management Tools\n- Mathematical Engineering 2\n\n2nd Year Engineering Cycle\n\nSemester 7:\n- Advanced Control\n- Thermal Machines\n- Waste Treatment\n- Introduction to Process Engineering\n- Heat Exchangers\n- Physico-Chemical Analysis for Environmental Diagnostics\n- Energy Management and Risk Management\n- English II\n\nSemester 8:\n- Energy Recovery and Storage\n- Industrial Refrigeration\n- Building Energy\n- Carbon Footprint and Life Cycle Analysis\n- Combustion\n- Environmental Management and Industrial Ecology\n- English III\n- Professional Project Development\n\n3rd Year Engineering Cycle\n\nSemester 9:\n- Smart Energy Management\n- Design of Energy Systems\n- Renewable Energy\n- Implementation of Ecotechnologies\n- Maintenance and Industrial Safety\n- Energy Strategy\n- Bio-Physico-Chemical Mechanisms of Pollutant Emissions\n- Entrepreneurship and Business Creation\n\nSemester 10:*\n- Final Year Project"
+            ]
+        },
+        {
+            "tag": "filières",
+            "patterns": [
+                "What tracks are offered at ENSA Berrechid?",
+                "What fields of study are available?",
+                "What specializations are offered?",
+                "Can you tell me about the tracks?",
+                "Tell me about the existing tracks at ENSA Berrechid?",
+                "Tell me about the existing tracks at ENSAB?",
+                "Give me a general idea of the tracks at ENSA Berrechid"
+            ],
+            "responses": [
+                "ENSA Berrechid offers tracks like Computer Engineering, Electrical Engineering, Industrial Engineering, etc.",
+                "The available tracks are diverse and adapted to market needs. Would you like details about a specific track?",
+                "The tracks available at ENSA Berrechid are:\n- Information Systems Engineering and Big Data\n- Aeronautical Engineering\n- Computer Engineering\n- Industrial and Logistics Engineering\n- Mechatronics and Artificial Intelligence"
+            ]
+        },
+        {
+            "tag": "orientation",
+            "patterns": [
+                "How can I apply to ENSA?",
+                "What are the admission criteria?",
+                "How does orientation work at ENSA?",
+                "What do I need to join the school?",
+                "How can I become an engineer?"
+            ],
+            "responses": [
+                "To join ENSA Berrechid, you must pass the national entrance exam after preparatory classes or parallel admissions.",
+                "Orientation depends on your results and academic background. Please check the ENSA website for details on admission procedures.",
+                "Orientation depends on your background. You can join ENSA after the Bac if you have a score of 15 or higher in physical sciences, 12 or higher in mathematics, and 18 or higher in life and earth sciences.",
+                "You can join after a professional license, DUT, or DEUG, or after two years of integrated preparatory classes.",
+                "The engineering profession is one of the main outcomes of scientific studies. Although a scientific preparatory class followed by an engineering school is the most traditional path to this profession, there are alternative and selective routes. In any case, the educational journey to become an engineer requires seriousness and consistency: the engineering degree is awarded after 5 years. The numerous responsibilities of the engineer require advanced technical knowledge, especially in economics, human skills, and environmental awareness. In addition to technical skills, the engineer must have strong leadership capabilities in personnel management, project management, and business management. More than an expert, the engineer is also a manager. A large part of their work time is spent studying projects in light of the human, economic, and financial constraints they involve. This position demands mental strength and high levels of autonomy."
+            ]
+        },
+        {
+            "tag": "clubs",
+            "patterns": [
+                "Are there clubs at ENSA?",
+                "What extracurricular activities are available?",
+                "What clubs are available for students?",
+                "How can I join a student club?"
+            ],
+            "responses": [
+                "Yes! You can join the Robotics Club, InnovTech, or participate in sports activities. Please contact the administration for more information.",
+                "ENSA offers several clubs and associations. A full list is available on the school's notice boards.",
+                "ENSA offers the following clubs: CEC Club, GDSC Club, Aero Club, Enactus, and other clubs."
+            ]
+        },
+        {
+            "tag": "housing",
+            "patterns": [
+                "Is there a campus for students?",
+                "What accommodations are available nearby?",
+                "Where can students stay?"
+            ],
+            "responses": [
+                "ENSA does not have a university residence.",
+                "There is no university residence at ENSA Berrechid."
+            ]
+        },
+        {
+            "tag": "partnerships",
+            "patterns": [
+                "What partnerships does ENSA have?",
+                "Does ENSA assist with internships?",
+                "What are the opportunities after ENSA?"
+            ],
+            "responses": [
+                "ENSA collaborates with several national and international companies, facilitating internships and professional insertion.",
+                "For more details on partnerships, please check the official website or contact the internship office."
+            ]
+        },
+        {
+            "tag": "greetings",
+            "patterns": [
+                "Good morning",
+                "Hi",
+                "Hello",
+                "Good evening",
+                "Salam",
+                "Hello ChatENSAB!"
+            ],
+            "responses": [
+                "Hi! How can I assist you with information about ENSA Berrechid?",
+                "Hello! How can I help you?",
+                "Hello! How can I be of assistance today?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Goodbye",
+                "See you soon",
+                "Bye",
+                "Thanks, I'm leaving"
+            ],
+            "responses": [
+                "Goodbye! Don't hesitate to reach out if you have any more questions.",
+                "Take care and feel free to ask more questions anytime!",
+                "Thank you for your questions! See you next time!"
+            ]
+            
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thank you",
+                "I appreciate it",
+                "It was helpful"
+            ],
+            "responses": [
+                "You're welcome!",
+                "I'm happy to be able to help.",
+                "Feel free to ask more questions."
+            ]
+        },
+        {
+            "tag": "unknown",
+            "patterns": [
+                "I don't understand",
+                "Can you repeat?",
+                "It's not clear"
+            ],
+            "responses": [
+                "Sorry, I'm not sure I understand. Could you rephrase?",
+                "I don't know the answer right now. You can contact the administration for more information.",
+                "You can contact ENSA Berrechid for more information via ensa.etudes@uhp.ac.ma"
+            ]
+        }
+        
+    ]
+    
+
+
+    
+  }
+  
