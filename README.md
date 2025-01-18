@@ -29,7 +29,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/ImaneBenzegunine/chatbot-project.git)
+   git clone https://github.com/ImaneBenzegunine/chatbot-project.git
    cd <repository-folder>
    ```
 
@@ -68,9 +68,9 @@ Ensure you have the following installed on your system:
 - `intents.json`: Contains the intents, patterns, and responses for the chatbot.
 - `data.pth`: File where the trained model is saved.
 - `static/`: Contains frontend assets:
-      `app.js`: JavaScript for client-side chatbot interaction.
-      `style.css`: Stylesheet for the chatbot interface.
-      `images/`: Contains images for the project, including chat.png, which should be replaced locally as needed.
+-    `app.js`: JavaScript for client-side chatbot interaction.
+-    `style.css`: Stylesheet for the chatbot interface.
+-    `images/`: Contains images for the project, including chat.png, which should be replaced locally as needed.
 - `templates/`: Contains the HTML templates for rendering the interface.
 
 ## How It Works
