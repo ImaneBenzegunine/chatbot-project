@@ -68,9 +68,9 @@ Ensure you have the following installed on your system:
 - `intents.json`: Contains the intents, patterns, and responses for the chatbot.
 - `data.pth`: File where the trained model is saved.
 - `static/`: Contains frontend assets:
--    `app.js`: JavaScript for client-side chatbot interaction.
--    `style.css`: Stylesheet for the chatbot interface.
--    `images/`: Contains images for the project, including chat.png, which should be replaced locally as needed.
+  > `app.js`: JavaScript for client-side chatbot interaction.
+  > `style.css`: Stylesheet for the chatbot interface.
+  > `images/`: Contains images for the project, including chat.png, which should be replaced locally as needed.
 - `templates/`: Contains the HTML templates for rendering the interface.
 
 ## How It Works
@@ -104,9 +104,6 @@ This chatbot was developed as part of my university coursework at **[Your Univer
 
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
-## License
-
-This project is for educational purposes and does not include a license for commercial use.
 
 ---
 
