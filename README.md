@@ -7,6 +7,11 @@ This project is a simple AI-powered chatbot designed for my university coursewor
 - User-friendly interface for interacting with the chatbot.
 - Ability to classify user inputs into predefined categories.
 
+## Road map
+
+![chatbot](https://github.com/user-attachments/assets/2a9dd4f8-ca56-4aae-b89c-16787d4a9599)
+
+
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/be68e16f-04b3-46bd-b96f-b83a578f72fe)
